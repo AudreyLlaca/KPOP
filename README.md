@@ -74,5 +74,5 @@ El proyecto incluye gráficos de barras y dispersión para comparar grupos en la
 
 ## ✍️ Autor
 
-Proyecto realizado por [Tu Nombre Aquí] como parte de un ejercicio práctico del bootcamp de análisis de datos.
+Proyecto realizado por Audrey como parte de un ejercicio práctico del bootcamp de análisis de datos.
 
